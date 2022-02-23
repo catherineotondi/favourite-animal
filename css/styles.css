@@ -1,0 +1,14 @@
+.intro{
+    font-style: italic;
+    color: red;
+
+}
+.simple{
+    color: blueviolet;
+
+}
+  p.simple{
+      font-style: italic;
+      color: yellowgreen;
+      font-size: 30px;
+  }
